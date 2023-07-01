@@ -1,4 +1,4 @@
-// worked with Angelo
+// worked with Angelo for this lab
 
 #include <stdio.h>
 #include <string.h>
