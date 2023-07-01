@@ -1,4 +1,3 @@
-// worked with Angelo and Martin
 .data
 	input: .asciiz "Please enter a number: "
 	evenSum: .asciiz "Sum of even numbers is: "
