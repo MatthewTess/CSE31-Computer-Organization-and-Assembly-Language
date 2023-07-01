@@ -1,4 +1,4 @@
-// worked with Martin Urueta
+// worked with Angelo and Martin
 
 #include <stdio.h>
 #include <stdlib.h>
